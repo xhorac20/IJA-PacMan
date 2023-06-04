@@ -1,0 +1,21 @@
+20 20
+...................T
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+....K...............
+XXXXXXXXXXXXXXXXXXXX
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+........GGGGGGG.....
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+....................
+.X.X.XX.XX.XX.XX.XX.
+.X.X.XX.XX.XX.XX.XX.
+.S..................
